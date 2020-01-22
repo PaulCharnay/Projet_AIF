@@ -29,5 +29,4 @@ It was created by the following students from INSA Toulouse:
 ## Requirements
 The following python libraries are required:
 - gym
-- stable_baselines
-
+- stable-baselines
